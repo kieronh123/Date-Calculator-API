@@ -1,0 +1,25 @@
+README for distributed systems cwk2.
+1. download dates.zip and save the file where you want.
+2. open a terminal and cd to the directory that you saced dates.zip to.
+3. type "unzip dates.zip" in the terminal and hit enter.
+3. open intellij
+4. choose import existing project.
+5. navigate to the newly formed dates doccumentary
+6. run RESTStartUp.java
+7. run MyClient.java
+
+* In MyClient.java there is a private static string initalised at the top of the file called filepath. Change this filepath to the location that you want the output to be saved tp.
+
+
+Once you have the client running, a GUI will appear. It will ask you to enter the current year and your date of birth.
+Please enter the two dates in the format (yyyy mm dd).
+	For example:
+			Current date  = 2019 11 18
+			Date of birth = 1997 09 16
+
+Then click the submit button.
+
+A new window will now appear with:
+		* The years and months that you have been alive
+	 	* An interesting fact about these two numbers
+		* The interesting facts translated into pirate speak.		
