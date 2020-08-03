@@ -1,1 +1,2 @@
 # Date-Calculator-API
+This is the web service I have developed. It Allows you to enter two dates and then find the number ofyears and months between those two dates. The main functionality of this is for the user to enter their date of birth as one date and the current dateas the other – this way, the server will return the number of years and months that the user has been alive. My client only ever uses GET requests but my I have implemented POST, PUT and DELETE functionality to the web service – although they are not used for this example.
